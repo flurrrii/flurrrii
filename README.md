@@ -1,2 +1,6 @@
-<h1>Hey!</h1>
-<h2>I'm an incredibly bad fullstack "developer"</h2>
+### hey i'm flurri ❄️
+- 13
+- he/him
+- i've touched js, shell, lua, html, css, applescript smh
+- incredibly bad fullstack "developer"
+- contact me flurri#6923
