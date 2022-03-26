@@ -8,7 +8,8 @@
 
 ### Projects
 #### Main Projects
-- Nihonium
+- Mango
 #### Side Projects
+- Nihonium
 - Endo
 - other stuff that I probably forgot about
